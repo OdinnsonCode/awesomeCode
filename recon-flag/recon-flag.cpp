@@ -1,8 +1,6 @@
-/****************************
-* Recon Flag Visualizer     *
-* (c) Mikko Odinsson, 2015  *
-* For private use only      *
-*****************************/
+// recon-flag.cpp : Defines the entry point for the console application.
+//
+
 #include "stdafx.h"
 COORD * array;
 void Randomize(COORD* a, int size);
